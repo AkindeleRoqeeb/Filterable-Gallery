@@ -1,3 +1,3 @@
-Filterable-Gallery
+# FilterablevGallery
 Filterable Gallery
-With product images   
+With product images Like t-shirt
